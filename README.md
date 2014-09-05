@@ -1,4 +1,6 @@
-rpl
+Rekayasa Perangkat Lunak
 ===
 
-Repositori RPL
+Sebuah repositori untuk RPL (Rekayasa Perangkat Lunak) / Software Engineering.
+Yuandri Trisaputra
+G64120004
